@@ -1,0 +1,10 @@
+name: TERS
+title:
+username: cpusth
+account: cpusth
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12299765
+bundleId: 8846567
+url: https://cpusth.shinyapps.io/TERS/
+version: 1
